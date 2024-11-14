@@ -3,3 +3,5 @@
 
 dwij
 dww
+
+only git restore need -s before HEAD~1 or the special code
